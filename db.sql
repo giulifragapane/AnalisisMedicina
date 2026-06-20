@@ -1,6 +1,6 @@
-- ════════════════════════════════════════════════════════════════
+-- ════════════════════════════════════════════════════════════════
 -- TPI: Análisis de Rendimiento Académico en Medicina
--- Grupo 51: Barrios, García, Fragapane
+-- Grupo 51: García, Fragapane
 -- Esquema de base de datos para MySQL (XAMPP)
 --
 -- INSTRUCCIONES:
